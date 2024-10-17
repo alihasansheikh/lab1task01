@@ -1,10 +1,10 @@
 package lab2task2;
 import java.util.*;
-public class rectangle {
+public class Rectangle {
 
  private float length, width;
 
-			 public rectangle()
+			 public Rectangle()
 
 			 {
 
